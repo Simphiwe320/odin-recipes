@@ -1,0 +1,32 @@
+/* This doc will the style the 
+   TeffStew.html file. */
+
+   h1 {
+      text-align: center;
+      text-transform: uppercase;
+      text-decoration-line: underline;
+      background-color: chocolate;
+      background-size: cover;
+     }
+  
+     body {
+      background-color: bisque;
+      text-align: center;
+      font-size: large;
+     }
+
+     p {
+      text-align: center;
+      margin-left: 150px;
+      margin-right: 150px;
+      text-decoration-line: overline;
+     }
+
+     h3 {
+      text-decoration: underline;
+     }
+
+     img {
+      border-radius: 25px;
+     }
+
